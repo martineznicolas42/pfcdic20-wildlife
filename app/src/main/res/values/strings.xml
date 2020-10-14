@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Animales vertebrados Quiz</string>
+    <string name="tv_nombre_app">Vida Salvaje Quiz</string>
+    <string name="tv_principio">Para que los niños se diviertan y aprendan</string>
+    <string name="tv_titulo_principal">Animales vertebrados</string>
+    <string name="mamiferos">Mamíferos</string>
+    <string name="aves">Aves</string>
+    <string name="anfibios">Anfibios</string>
+    <string name="reptiles">Reptiles</string>
+    <string name="peces">Peces</string>
+    <string name="btn_quiz">Quiz!!</string>
+    <string name="tv_quiz">Quiz</string>
+    <string name="tv_titulo">Pregunta</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_anterior">Anterior</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Corregir</string>
+    <string name="tv_quiz1">Quiz 1</string>
+    <string name="tv_entrar">Entrar</string>
+    <string name="btn_salir">Salir del quiz</string>
+    <string name="btn_volver">Volver</string>
+    <string name="tv_lince_iberico">Lince ibérico</string>
+    <string name="tv_ince_boreal">Lince boreal</string>
+    <string name="tv_lince_rojo">Lince rojo</string>
+    <string name="tv_lince_canadiense">Lince Canadiense</string>
+    <string name="tv_quiz2">Quiz 2</string>
+    <string name="tv_p1">¿Qué lince es?</string>
+    <string name="tv_p2">¿Cuánto pesa un león macho adulto?</string>
+    <string name="tv_peso1">140 - 190 kgs</string>
+    <string name="tv_peso2">80 - 150 kgs</string>
+    <string name="tv_peso3">160 - 190 kgs</string>
+    <string name="tv_peso4">120 - 190 kgs</string>
+    <string name="tv_p3">¿Qué comen los canguros?</string>
+    <string name="tv_canguro1">Conejos</string>
+    <string name="tv_canguro2">Perdices y pequeños mamíferos</string>
+    <string name="tv_canguro3">Anátidas y unguladas</string>
+    <string name="tv_canguro4">Todas las anteriores son correctas</string>
+    <string name="tv_p4">¿Qué comen los águilas imperiales?</string>
+    <string name="tv_aguila1">Pájaros mas pequeños</string>
+    <string name="tv_aguila2">Cualquier animal que pese 3 Kg, sobre todo conejos,ardillas y liebres</string>
+    <string name="tv_aguila3">Solo conejos</string>
+    <string name="tv_aguila4">Solo ardillas y liebres</string>
+    <string name="tv_quiz3">Quiz 3</string>
+    <string name="tv_bienvenida_quiz3">Bienvenido al quiz 3</string>
+    <string name="tv_reglas_quiz3">Estas son las reglas del quiz: \nEncontrarás una serie de preguntas con un espacio en blanco, donde tendrás que escribir la respuesta, si la respuesta que has introducido no es correcta no contará, en el caso en que la respuesta sea correcta contará y se sumará un punto.\nPuedes conseguir hasta un máximo de 10 puntos.\nMucha suerte y esperemos que le vaya bien</string>
+    <string name="btn_entrar_quiz3">Comenzar!!!</string>
+    <string name="tv_pregunta1_quiz3"> <u>Pregunta1:</u> </string>
+    <string name="tv_p1_quiz3">El</string>
+    <string name="tv_p1_parte_2">El ????? come hojas de eucaliptus</string>
+    <string name="btn_continuar_quiz3">Corregir</string>
+    <string name="tv_contador">00:30</string>
+    <string name="tv_pregunta2_quiz3">Pregunta 2</string>
+    <string name="tv_p2_quiz3">El</string>
+    <string name="tv_p2_parte_2">El ???? puede llegar a pesar 190 kgs</string>
+    <string name="respuesta">Respuesta</string>
+    <string name="tv_puntos">Puntos:</string>
+    <string name="btn_continuar">Continuar</string>
+
+    <array name="all_questions">
+        <item>¿Qué animal como hojas de eucaliptus?;*Koala;Canguro;Oso panda;Leon</item>
+        <item>¿Cuántos años vive el canguro?;20 años;30 años;4 años;*6años</item>
+        <item>¿De qué continente es el Lince ibérico?;Oceanía;África;*Europa;América</item>
+    </array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_salir_quiz3">Salir del Quiz</string>
+    <string name="tv_num_preguntas">Pregunta 1 de 10</string>
+    <string name="tv_puntos_quiz_aleatorio">Puntos: 0</string>
+    <string name="tv_vidas_quiz_aleatorio">Vidas: 3</string>
+    <string name="btn_quiz_aleatorio">Quiz aleatorio</string>
+    <string name="btn_entrar">¡¡Entrar!!</string>
+    <string name="salir_dialog">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="pregunta">¿Está seguro de que desea salir de la app?</string>
+</resources>

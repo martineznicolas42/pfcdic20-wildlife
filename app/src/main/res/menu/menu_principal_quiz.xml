@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemHome"
+        android:icon="@drawable/iconoprincipal"
+        android:title="Menú principal"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemEditarPerfilQuiz"
+        android:icon="@drawable/iconoeditarperfil"
+        android:title="Editar Perfil"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemDesarrolladoresQuiz"
+        android:icon="@drawable/iconodesarrolladores"
+        android:title="Desarrolladores"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemSalirQuiz"
+        android:icon="@drawable/iconosalir"
+        android:title="Salir"
+        app:showAsAction="always" />
+</menu>
